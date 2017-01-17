@@ -1,6 +1,6 @@
 // Require
 var mongoose = require('mongoose');
-require('mongooseFromClass')(mongoose);
+require('mongoosefromclass')(mongoose);
 
 // The kitten class
 class Kitten {

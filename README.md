@@ -1,4 +1,4 @@
-# mongooseFromClass
+# mongoosefromclass
 
 © Ironboy 2017, MIT licensed
 
