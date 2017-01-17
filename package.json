@@ -1,0 +1,16 @@
+{
+  "name": "mongooseFromClass",
+  "description": "Converts an ES6 class to a mongoose model.",
+  "author": "Thomas Frank <thomas@nodebite.se> (http://nodebite.se)",
+  "version": "0.1.1",
+  "main": "mongooseFromClass.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ironboy/mongooseFromClass"
+  },
+  "bugs": "https://github.com/ironboy/mongooseFromClass/issues",
+  "license" : "MIT",
+  "dependencies": {},
+  "tonicExampleFilename": "tonicExample.js",
+  "engines" : { "node" : ">=6.0"}
+}
